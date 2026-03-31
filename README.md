@@ -9,7 +9,7 @@ Use 𝚌𝚏𝚘𝚕𝚍𝚎𝚛 -𝚑𝚎𝚕𝚙 to see the help menu.
 
 ---
 
-##How to install it:
+#How to manually install it
 
   -First, open your terminal and type `notepad $PROFILE`
   
@@ -21,4 +21,8 @@ Use 𝚌𝚏𝚘𝚕𝚍𝚎𝚛 -𝚑𝚎𝚕𝚙 to see the help menu.
   - Paste the code into the file you opened with `notepad $PROFILE`.
 
   - Finally, open a new terminal and type `cfolder`.
+
+
+
+#How to install it with install.ps1
 
