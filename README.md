@@ -26,3 +26,9 @@ Use 𝚌𝚏𝚘𝚕𝚍𝚎𝚛 -𝚑𝚎𝚕𝚙 to see the help menu.
 
 #How to install it with install.ps1
 
+  -Download the .zip file and extract it.
+
+  -Left click install.ps1 and select `Run with PowerShell`
+
+  -Now you can type `cfolder`.
+
