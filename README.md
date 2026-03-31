@@ -12,3 +12,6 @@ Use 𝚌𝚏𝚘𝚕𝚍𝚎𝚛 -𝚑𝚎𝚕𝚙 to see the help menu.
 How to install it:
 
   -First, open your terminal and type notepad $PROFILE
+  
+![Profile Screenshot](assets/profile.png)
+
